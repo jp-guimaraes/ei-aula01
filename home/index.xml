@@ -8,10 +8,10 @@
     <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/pe-aula01/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/pe-aula01/home/intro/</link>
+      <link>https://jp-guimaraes.github.io/pe-aula01/home/01_intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/pe-aula01/home/intro/</guid>
+      <guid>https://jp-guimaraes.github.io/pe-aula01/home/01_intro/</guid>
       <description>O que é eletricidade?
  Energia hidrelétrica já representa mais de 15% do fornecimento global de eletricidade
 &amp;ldquo;Faltou energia&amp;hellip;&amp;rdquo;
@@ -24,6 +24,25 @@ O que é energia?
   Gravitacional
   Química
    E a energia potencial elétrica?</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/pe-aula01/home/02_consequencias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/pe-aula01/home/02_consequencias/</guid>
+      <description>Força elétrica  Força elétrica
+ Alguém consegue ver a semelhança da força elétrica com a força gravitacional?
+ Ganha e perda de elétrons: Eletrização!
+ QUIZ  Qual a consequência da força elétrica nos elétrons de um átomo?
+ Quiz  Qual a relação da lei de Ohm com a carga elétrica?
+ Diferença de potencial elétrico
+Corrente
+Resistência
+ Resistência x Resistividade
+Resistência?
+-&amp;gt; Segunda lei de Ohm</description>
     </item>
     
   </channel>
