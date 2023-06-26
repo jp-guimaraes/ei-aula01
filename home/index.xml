@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homes on Revisão</title>
-    <link>https://jp-guimaraes.github.io/pe-aula01/home/</link>
-    <description>Recent content in Homes on Revisão</description>
+    <title>Homes on Introdução à disciplina</title>
+    <link>https://jp-guimaraes.github.io/ei-aula01/home/</link>
+    <description>Recent content in Homes on Introdução à disciplina</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/pe-aula01/home/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/ei-aula01/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/pe-aula01/home/01_intro/</link>
+      <link>https://jp-guimaraes.github.io/ei-aula01/home/01_intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/pe-aula01/home/01_intro/</guid>
+      <guid>https://jp-guimaraes.github.io/ei-aula01/home/01_intro/</guid>
       <description>O que é eletricidade?
  Energia hidrelétrica já representa mais de 15% do fornecimento global de eletricidade
 &amp;ldquo;Faltou energia&amp;hellip;&amp;rdquo;
@@ -28,11 +28,11 @@ O que é energia?
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/pe-aula01/home/02_consequencias/</link>
+      <link>https://jp-guimaraes.github.io/ei-aula01/home/02_consequencias/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/pe-aula01/home/02_consequencias/</guid>
-      <description>Força elétrica  Força elétrica
+      <guid>https://jp-guimaraes.github.io/ei-aula01/home/02_consequencias/</guid>
+      <description> Força elétrica  Força elétrica
  Alguém consegue ver a semelhança da força elétrica com a força gravitacional?
  Ganha e perda de elétrons: Eletrização!
  QUIZ  Qual a consequência da força elétrica nos elétrons de um átomo?
@@ -40,9 +40,28 @@ O que é energia?
  Diferença de potencial elétrico
 Corrente
 Resistência
- Resistência x Resistividade
-Resistência?
--&amp;gt; Segunda lei de Ohm</description>
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/ei-aula01/home/03_resistencia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/ei-aula01/home/03_resistencia/</guid>
+      <description>Resistência  Resistência: Capacidade de um corpo (característica) de se opor a passagem de corrente elétrica. Simule!
+   Resistência x Resistividade
+Resistividade?
+-&amp;gt; Segunda lei de Ohm
+ Quiz Como você &amp;lsquo;fabricaria&amp;rsquo; um resistor variável?
+ Unidades?
+ Condutividade?
+ Classificação baseada na condutividade de um material:
+ condutores isolantes  (elétrons livres)
+ E os semicondutores?
+ E os semicondutores?
+  Temperatura
+  Impurezas</description>
     </item>
     
   </channel>
